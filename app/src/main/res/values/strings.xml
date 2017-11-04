@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SummerTreeCafe</string>
+
+    <string name="business_name">Summer Tree Cafe</string>
+
+    <string name="business_description">The Summer Tree Cafe is a specialty coffee shop that offers premium coffee and tea. Our coffee masters select only the best Arabica beans directly on the farm. We roast freshly every day, and we offer our customers the best freshness and excellent taste.</string>
+    
+    <string name="days_sat_mon">Sat. - Mon.</string>
+
+    <string name="days_tue_fri">Tue. - Fri.</string>
+
+    <string name="hours_sat_mon">08:00 ~ 22:00</string>
+
+    <string name="hours_tue_fri">07:00 ~ 22:00</string>
+
+    <string name="address">548, Gangnam-daero, Gangnam-gu, Seoul, Republic of Korea</string>
+
+    <string name="phone_number">(080) 676 - 5958</string>
+
+    <string name="website">www.summertreecafe.com</string>
+</resources>
