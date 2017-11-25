@@ -94,6 +94,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_marginLeft="32dp"
+                    android:autoLink="map"
                     android:fontFamily="sans-serif"
                     android:text="@string/address"
                     android:textColor="@android:color/black" />
@@ -114,6 +115,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_marginLeft="32dp"
+                    android:autoLink="phone"
                     android:fontFamily="sans-serif"
                     android:text="@string/phone_number"
                     android:textColor="@android:color/black" />
@@ -134,6 +136,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_marginLeft="32dp"
+                    android:autoLink="web"
                     android:fontFamily="sans-serif"
                     android:text="@string/website"
                     android:textColor="@android:color/black" />
