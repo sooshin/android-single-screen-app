@@ -3,7 +3,10 @@
 
     <string name="business_name">Summer Tree Cafe</string>
 
-    <string name="business_description">The Summer Tree Cafe is a specialty coffee shop that offers premium coffee and tea. Our coffee masters select only the best Arabica beans directly on the farm. We roast freshly every day, and we offer our customers the best freshness and excellent taste.</string>
+    <string name="business_description">The Summer Tree Cafe is a specialty coffee shop that
+        offers premium coffee and tea. Our coffee masters select only the best Arabica beans directly
+        on the farm. We roast freshly every day, and we offer our customers the best freshness and
+        excellent taste.</string>
     
     <string name="days_sat_mon">Sat. - Mon.</string>
 
@@ -18,4 +21,12 @@
     <string name="phone_number">(080) 676 - 5958</string>
 
     <string name="website">www.summertreecafe.com</string>
+
+    <string name="content_desc">Image</string>
+
+    <string name="content_desc_location">Location image</string>
+
+    <string name="content_desc_phone">Phone image</string>
+
+    <string name="content_desc_web">Web image</string>
 </resources>
