@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin_bottom">8dp</dimen>
+
+    <dimen name="layout_width_day">80dp</dimen>
+
+    <dimen name="layout_height_image">210dp</dimen>
+
+    <dimen name="activity_margin">16dp</dimen>
+
+    <dimen name="layout_margin_left">32dp</dimen>
+</resources>
